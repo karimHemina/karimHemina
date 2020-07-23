@@ -1,4 +1,34 @@
-### Hi there 👋
+### Hi there 👋 I am  Karim Hemina, a passionate android developer and about to graduate as a software engineer
+
+## ⚡ I'm passionate about :
+- Android Dev
+- Self Improvement
+- Entrepreneurship and Innovation
+- Content Creation in Algerian Dialect
+
+## 🔭 I'm currently working on
+- An open source synthesised Arabic voice for Festival TTS using HTS as my graduation project
+
+## 👯 Skills
+- Java
+- HTML5
+- CSS3
+- Android Studio
+
+## 🌱 I'm currently learning
+- javascipt
+- react js
+- kotlin
+
+## Operating Systems
+ - Linux
+ - Windows
+ - Android
+
+
+## 📫 How to reach me
+karimhemina16@gmail.com
+ 
 
 <!--
 **karimHemina/karimHemina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

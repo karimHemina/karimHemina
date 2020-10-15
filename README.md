@@ -18,7 +18,6 @@
 ## 🌱 I'm currently learning
 - javascipt
 - react js
-- kotlin
 
 ## Operating Systems
  - Linux

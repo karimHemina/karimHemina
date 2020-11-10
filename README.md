@@ -1,22 +1,30 @@
-### Hi there 👋 I am  Karim Hemina, a passionate android developer and about to graduate as a software engineer
+### Hi there 👋 I am  Karim Hemina, a passionate android developer and arecently graduated as a software engineer
 
 ## ⚡ I'm passionate about :
+- Software Engineering
 - Android Dev
 - Self Improvement
 - Entrepreneurship and Innovation
 - Content Creation in Algerian Dialect
 
-## 🔭 I'm currently working on
-- An open source synthesised Arabic voice for Festival TTS using HTS as my graduation project
+## 🔭 I've worked on
+- An open source synthesised Arabic voice for Festival TTS using HTS (my graduation project)
+
+## 🔭 I'am currently working on
+- nothing specific, just trying to improve my skills by developing some random apps and websites
 
 ## 👯 Skills
 - Java
 - HTML5
 - CSS3
+- javascript
+- python
 - Android Studio
+- React js
 
 ## 🌱 I'm currently learning
 - javascipt
+- python
 - react js
 
 ## Operating Systems

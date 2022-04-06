@@ -1,9 +1,10 @@
-### Hi there 👋 I am  Karim Hemina, a passionate android developer and arecently graduated as a software engineer
+### Hi there 👋 I am  Karim Hemina, a passionate Software engineer
 
 ## ⚡ I'm passionate about :
 - Software Engineering
 - Android Dev
 - Self Improvement
+- Teaching
 - Entrepreneurship and Innovation
 - Content Creation in Algerian Dialect
 
@@ -11,21 +12,17 @@
 - An open source synthesised Arabic voice for Festival TTS using HTS (my graduation project)
 
 ## 🔭 I'am currently working on
-- nothing specific, just trying to improve my skills by developing some random apps and websites
+- Developping ERP solution with ODOO which is an open source framework
+- Preparing my PhD in Sofware Engineering & AI, working on Fake News Detection (FND) on social media
 
 ## 👯 Skills
-- Java
-- HTML5
-- CSS3
-- javascript
 - python
+- Java
 - Android Studio
-- React js
 
 ## 🌱 I'm currently learning
-- javascipt
-- python
-- react js
+- deep learning
+- javascript
 
 ## Operating Systems
  - Linux

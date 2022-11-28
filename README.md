@@ -18,11 +18,12 @@
 ## 👯 Skills
 - python
 - Java
+- JavaFX
 - Android Studio
 
 ## 🌱 I'm currently learning
 - deep learning
-- javascript
+- diving deeper into python
 
 ## Operating Systems
  - Linux

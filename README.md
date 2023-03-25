@@ -40,13 +40,13 @@
 ![](https://github-profile-trophy.vercel.app/?username=karimHemina&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 # 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=karim_hem)]
+![](https://gtce.itsvg.in/api?username=karim_hem)
 
 # ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=karimHemina&icon=0&color=0)]
+![](https://visitcount.itsvg.in/api?id=karimHemina&icon=0&color=0)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 

@@ -1,3 +1,4 @@
+<!---
 ### Hi there 👋 I am  Karim Hemina, a passionate Software engineer
 
 # 💫 About Me:
@@ -14,7 +15,7 @@
  - Artificial intelligence
  - Software engineering methodologies
 
-
+--->
 # 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/karimh16) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/karim.swe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/karimh16) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@karimhemina16) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/7636528) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/karim_hem) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@KarimHemina) 
 
@@ -27,10 +28,10 @@
 
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=karimHemina&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
+<!---
 # 🐦 Latest Tweet
 ![](https://gtce.itsvg.in/api?username=karim_hem)
-
+--->
 # ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
@@ -38,10 +39,10 @@
 ![](https://visitcount.itsvg.in/api?id=karimHemina&icon=0&color=0)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+<!---
 # 📫 How to reach me
 ✉️ karimhemina16@gmail.com
- 
+ --->
 
 <!--
 **karimHemina/karimHemina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
